@@ -44,21 +44,3 @@ The data is analysed to identify patterns, for example:
 Completion rates by area or section
 Differences across grades
 Distribution of performance levels
-Tools used
-Excel – data cleaning, classification, and analysis
-(Optional) Power BI – visualisation and reporting
-(Optional) SQL – data extraction and structuring
-Why this matters
-
-This project shows how real organisational data can be turned into clear and structured insights.
-
-It reflects my experience in:
-
-Working with structured and sensitive datasets
-Organising and cleaning real-world data
-Applying rule-based classification
-Generating insights to support decision-making
-Making results transparent and easy to interpret
-Note
-
-This project is based on real work experience. The data may be anonymised or simplified for demonstration purposes
